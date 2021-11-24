@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+#bold{
+    background-color: yellow;
+}
+
+#span{
+    text-decoration:line-through ;
+}
+#ex{
+    text-decoration: underline;
+}
+.mi{
+    letter-spacing: 3px;
+}
+
+#a{
+  background-color: yellow;
+  text-decoration: none;
+  font-size: 20px;
+}

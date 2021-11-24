@@ -1,0 +1,100 @@
+.box{
+    background-color:black;
+    width: 250px;
+    border: 7px solid rgb(231, 37, 11);
+    padding: 30px 30px;
+    margin: 20px;
+    color: white;
+    font-size: 24px;
+    border-radius: 30px;
+    font-style: italic;
+  
+  }
+  
+  .box1{
+      background-color:black;
+      width: 299px;
+      border: 7px solid rgb(231, 37, 11);
+      padding:  21px 52px;
+      margin: -137px 40px 20px 180px;
+      color: white;
+      font-size: 24px;
+      border-radius: 35px;
+      font-style: italic;
+      position: absolute;
+    
+    }
+  
+    .box2{
+      background-color:black;
+      width: 250px;
+      border: 7px solid rgb(231, 37, 11);
+      padding: 30px 30px;
+      margin :  -137px 40px 20px 952px;
+      color: white;
+      font-size: 24px;
+      border-radius: 30px;
+      font-style: italic;
+    
+    }
+  .form{
+      border:  5px dashed red ;
+      background-color: white;
+      width: 400px;
+      text-align: center;
+      margin: 20px 40px 20px 652px;
+  }
+  .red{
+      color: hotpink;
+  
+  }
+  
+  .circle{
+      background-color:rgb(29, 126, 105);
+      width: 280px;
+      height: 280px;
+      border: 7px solid rgb(102, 102, 102);
+      padding: 30px 30px;
+      margin: -432px 40px 20px 42px ;
+      color: white;
+      font-size: 24px;
+      border-radius: 50%;
+      position: absolute;
+      text-align: center;
+      overflow:hidden;
+  
+  }
+  .line{
+      color: white;
+      width: 200px;
+  
+  }
+  .menu{
+      background-color:black;
+      width: 250px;
+      border: 7px solid rgb(231, 37, 11);
+      padding: 30px 85px;
+      margin: 41px 80px 50px 368px;
+      color: white;
+      font-size: 24px;
+      border-radius: 50px;
+      font-style: italic;
+      text-align: center;
+  
+      
+  }
+  .box6{
+      border: 1px solid black;
+      display: inline-block;
+      border-spacing: 150px;
+      border-radius: 20px;
+      width: 30%;
+      background-color: aquamarine;
+      text-align: center;
+      margin: 15px;
+  }
+
+.border123{
+    border: 2px solid red ;
+    width: 500px;
+}
