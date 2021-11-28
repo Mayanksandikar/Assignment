@@ -1,0 +1,134 @@
+.div1{
+    border: 9px solid red ;
+    background-color: white;
+    text-align: center;
+    color: purple;
+    height: 150px;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    font-size: 34px;
+    padding-top:30px ;
+}
+
+.div2{
+    border: 7px red solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: white;
+
+}
+.border{
+    border: green solid;
+    position: relative;
+    margin-bottom: 10px;
+    border-spacing: 40px;
+
+
+}
+.div3{
+    border: 7px red solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: white;
+    float: right;
+  
+     margin: -164px 84px -13px 10px;
+
+}
+.div4{
+    border: 7px red solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    font-size: 19PX;
+    background-color: white;
+    margin: 107px 1px 15px 1px;
+
+}
+
+.div5{
+    border: 7px red solid;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+    text-align: center;
+    background-color: white;
+    float: right;
+   
+   
+     margin: -179px 84px -148px 18px;
+
+}
+
+.border2{
+    border: 3px solid rgb(63, 7, 80);
+    width: 500PX;
+    height: 455px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    background-color: green;
+
+}
+
+.fruit{
+   height: 200px;
+   width: 242px;
+   background-color: rgb(238, 221, 144);
+   text-align: center;
+   float: left;
+}
+.vegetables{
+    height: 200px;
+    width: 242px;
+    background-color: rgb(238, 221, 144);
+    text-align: center;
+    float: right;
+}
+.other{
+    height: 151px;
+    width: 500px; 
+    background-color: rgb(238, 221, 144);
+    /* margin: 183px 30px -8px 2px; */
+    margin-top: 183px;
+}
+#number{
+    width: 50%;
+}
+.fi{
+    border: 7px solid red;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: 133px;
+    margin-left: -100px;
+    height: 50px;
+    width: 355px;
+    border-radius: 9px;
+    flex-wrap: wrap;
+    word-break: break-all; 
+    display: inline-block;
+  
+    background-color: rgb(72, 221, 72);
+}
+
+body{
+    background-color: gray;
+}
+.a{
+    float: left;
+    text-align: center;
+    position: absolute;
+}
+.b{
+    float: right;
+}
+.c{
+    position: absolute;
+
+}
